@@ -99,19 +99,19 @@ Before using Psi4 in a project, consult the official manual at psicode.org and t
 
 ## 2022
 
-Xie, Y., Smith, D. G. A., and Sherrill, C. D. J. Chem. Phys., 157, 024801 (2022).
++ Xie, Y., Smith, D. G. A., and Sherrill, C. D. **Implementation of symmetry-adapted perturbation theory based on density functional theory and using hybrid exchange–correlation kernels for dispersion terms**, [J. Chem. Phys., 157, 024801 (2022)]( https://doi.org/10.1063/5.0090688).
 
-Behnle, S. and Fink, R. F. "UREMP, RO-REMP, and OO-REMP: Hybrid perturbation theories for open-shell electronic structure calculations." J. Chem. Phys. 156, 124103 (2022). https://doi.org/10.1063/5.0081285
++ Behnle, S. and Fink, R. F. **UREMP, RO-REMP, and OO-REMP: Hybrid perturbation theories for open-shell electronic structure calculations**, [J. Chem. Phys. 156, 124103 (2022)](https://doi.org/10.1063/5.0081285)
 
 ## 2021
 
-Schriber, J. B., Sirianni, D. A., Smith, D. G. A., Burns, L. A., Sitkoff, D., Cheney, D. L., Sherrill, C. D. J. Chem. Phys. 154, 234107 (2021).
++ Schriber, J. B., Sirianni, D. A., Smith, D. G. A., Burns, L. A., Sitkoff, D., Cheney, D. L., Sherrill, C. D. **Optimized damping parameters for empirical dispersion corrections to symmetry-adapted perturbation theory**, [J. Chem. Phys. 154, 234107 (2021)](https://doi.org/10.1063/5.0049745).
 
-Waldrop, J. M. and Patkowski, K. "Nonapproximated third-order exchange induction energy in symmetry-adapted perturbation theory." J. Chem. Phys. 154, 024103 (2021). https://doi.org/10.1063/1.4994190
++ Waldrop, J. M. and Patkowski, K. **Nonapproximated third-order exchange induction energy in symmetry-adapted perturbation theory*, [J. Chem. Phys. 154, 024103 (2021)](https://doi.org/10.1063/1.4994190).
 
-Behnle, S. and Fink, R. F. "OO-REMP: Approaching Chemical Accuracy with Second-Order Perturbation Theory." J. Chem. Theory Comput. 17, 3259 (2021). https://doi.org/10.1021/acs.jctc.1c00280
++ Behnle, S. and Fink, R. F. **OO-REMP: Approaching Chemical Accuracy with Second-Order Perturbation Theory**, [J. Chem. Theory Comput. 17, 3259 (2021)](https://doi.org/10.1021/acs.jctc.1c00280).
 
-Grimme, S., Hansen, A., Ehlert, S., and Mewes, J.-M. J. Chem. Phys. 154, 064103 (2021). https://doi.org/10.1063/5.0040021
++ Grimme, S., Hansen, A., Ehlert, S., and Mewes, J.-M. **r^2SCAN-3c: A “Swiss army knife” composite electronic-structure method**, [J. Chem. Phys. 154, 064103 (2021)](https://doi.org/10.1063/5.0040021)
 
 
 ## 2020
