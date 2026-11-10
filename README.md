@@ -24,7 +24,7 @@ Solvation and environment effects can be modeled through implicit solvent approa
 
 ### Basis Sets and Integrals
 
-Psi4 ships with an extensive library of Gaussian basis sets, including the Pople, Dunning correlation-consistent (cc-pVXZ and aug-cc-pVXZ), and Karlsruhe def2 families, plus many specialized sets. Integral evaluation relies on the Libint library, which is a standard in the field. Psi4 has also introduced the density-fitting approximation across many parts of the code, which substantially reduces computational cost and input/output demands.
+Psi4 ships with an extensive library of Gaussian basis sets, including the Pople, Dunning correlation-consistent (cc-pVXZ and aug-cc-pVXZ), and Karlsruhe def2 families, plus many specialized sets. Integral evaluation relies on the [Libint library](https://github.com/evaleev/libint), which is a standard in the field. Psi4 has also introduced the density-fitting approximation across many parts of the code, which substantially reduces computational cost and input/output demands.
 
 ### Numerical Acceleration
 
