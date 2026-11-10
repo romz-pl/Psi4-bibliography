@@ -6,7 +6,7 @@
 
 Its defining characteristic is its architecture: a computational core written in C++ that is driven by a native Python layer. This hybrid design lets users write short, readable input files for routine work while also scripting complex, multi-step workflows in Python, and it lets developers add new methods without rewriting the whole program.
 
-Psi4 is the successor to the original PSI program family, which was developed by the research group of Henry F. Schaefer III. Primary development of Psi4 is currently carried out by research groups led by David Sherrill (Georgia Tech) and T. Daniel Crawford (Virginia Tech), together with a broad community of contributors.
+Psi4 is the successor to the original PSI program family, which was developed by the research group of [Henry F. Schaefer III](https://en.wikipedia.org/wiki/Henry_F._Schaefer_III). Primary development of Psi4 is currently carried out by research groups led by David Sherrill (Georgia Tech) and T. Daniel Crawford (Virginia Tech), together with a broad community of contributors.
 
 ## Scientific Scope
 
