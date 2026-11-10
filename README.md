@@ -90,11 +90,11 @@ Before using Psi4 in a project, consult the official manual at psicode.org and t
 
 ## 2023
 
-Jha, A., Nottoli, M., Mikhalev, A., Quan, C., Stamm, B. J. Chem. Phys. 158, 104105 (2023).
++ Jha, A., Nottoli, M., Mikhalev, A., Quan, C., Stamm, B. **Linear scaling computation of forces for the domain-decomposition linear Poisson–Boltzmann method**, [J. Chem. Phys. 158, 104105 (2023)]( https://doi.org/10.1063/5.0141025).
 
-Luu, D. and Patkowski, K. J. Phys. Chem. A 127, 356-377 (2023). https://doi.org/10.1021/acs.jpca.2c06465
++ Luu, D. and Patkowski, K. **Overcoming Artificial Multipoles in Intramolecular Symmetry-Adapted Perturbation Theory**, [J. Phys. Chem. A 127, 356-377 (2023)](https://doi.org/10.1021/acs.jpca.2c06465).
 
-Müller, M., Hansen, A., and Grimme, S. J. Chem. Phys. 158, 014103 (2023). https://doi.org/10.1063/5.0133026
++ Müller, M., Hansen, A., and Grimme, S. **ωB97X-3c: A composite range-separated hybrid DFT method with a molecule-optimized polarized valence double-ζ basis set**, [J. Chem. Phys. 158, 014103 (2023)](https://doi.org/10.1063/5.0133026).
 
 
 ## 2022
